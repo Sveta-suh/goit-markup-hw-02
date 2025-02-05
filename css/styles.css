@@ -115,7 +115,11 @@ color: #434455;
 
 
 .cards {
-        background-color: #FFFFFF;
+        background-color: #F4F4FD;
+}
+
+.cards-item {
+        background-color: #FFFFFF
 }
 
 .about {
